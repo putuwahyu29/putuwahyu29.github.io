@@ -54,7 +54,7 @@ const CONFIG = {
   seo: {
     title: 'Agus Wahyu | Github Pages',
     description: 'Portofolio Agus Wahyu',
-    imageURL: '',
+    imageURL: '/og-image.png',
   },
   social: {
     linkedin: 'aguswahyu',
